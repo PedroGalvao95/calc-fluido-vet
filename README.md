@@ -3,6 +3,8 @@ Calculadora de fluidoterapia veterinária (cães e gatos)
 
 Uma aplicação interativa desenvolvida para auxiliar médicos veterinários no cálculo preciso de taxas de fluidoterapia para cães e gatos. O projeto diferencia as necessidades metabólicas de manutenção das exigências críticas do transoperatório.
 
+https://calc-fluido-vet.streamlit.app/
+
 ## 📖 Contexto e Justificativa
 
 Na rotina de cirurgia de tecidos moles, a precisão na fluidoterapia é vital. Taxas excessivas podem levar ao edema pulmonar (especialmente em felinos), enquanto taxas insuficientes comprometem a perfusão renal sob anestesia.
